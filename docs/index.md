@@ -19,17 +19,23 @@ Github Page[Bakhtiar Ramadhan GitHub](https://github.com/bakhti31/)
 ```markdown
 Junior Web Developer
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](https://avatars.githubusercontent.com/u/27219734) and ![Image](https://avatars.githubusercontent.com/u/27219734)
+- Implement User Interface
+- Implement th Text, Graphics, and Multimedia-Based Programming Language Execution Command
+- Arrange the Function, Files, or Other Programming Resources in Neat Organizations
+- Write the Code with Principles in Accordance with the Guidelines and Best Practices
+- Implement the Structured Programming
+- Use the Library or Pre-Existing Components
 ```
+## Programming Language Skill
+- Java Desktop Programmer 
+- PHP
+- Javascript Vanila
+- Node JS 
+- Python
+- C++
+- Arduino C++
+
+## Project
+- Java [POS without database]()
+- PHP, HTML, CSS [Ins-IT]() and [Portofolio]()
+- Python bots [Vhack Automation]() and [Telegram Bots]()
