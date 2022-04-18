@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Bakhtiar Ramadhan
+![Image](https://avatars.githubusercontent.com/u/27219734)
 
-You can use the [editor on GitHub](https://github.com/bakhti31/my-cv/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Github Page[Bakhtiar Ramadhan GitHub](https://github.com/bakhti31/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education History
+1. **High School Negeri Penajam Paser Utara** _2019_
+2. **Samarinda State Polytechnic** _Current_
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Certificate
+1. **Training in NEO Singapore Komputer**, _2017-04_
+2. **Certificate of Competency Computer and Network Engineering**, _2018-03_
+3. **Junior Networking**, _2019-01_
+4. **Junior Network Administrator**, _2019-10_
+5. **Networking**, _2019-11_
+6. **CCNA Routing and Switching: Introduction to Networks**, _2020-01_
+7. **Junior Web Developer**, _2020-10_
 
 ```markdown
-Syntax highlighted code block
+Junior Web Developer
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](https://avatars.githubusercontent.com/u/27219734) and ![Image](https://avatars.githubusercontent.com/u/27219734)
+- Implement User Interface
+- Implement th Text, Graphics, and Multimedia-Based Programming Language Execution Command
+- Arrange the Function, Files, or Other Programming Resources in Neat Organizations
+- Write the Code with Principles in Accordance with the Guidelines and Best Practices
+- Implement the Structured Programming
+- Use the Library or Pre-Existing Components
 ```
+## Programming Language Skill
+- Java Desktop Programmer 
+- PHP
+- Javascript Vanila
+- Node JS 
+- Python
+- C++
+- Arduino C++
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bakhti31/my-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Project
+- Java [POS without database]()
+- PHP, HTML, CSS [Ins-IT]() and [Portofolio]()
+- Python bots [Vhack Automation]() and [Telegram Bots]()
