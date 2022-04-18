@@ -36,6 +36,6 @@ Junior Web Developer
 - Arduino C++
 
 ## Project
-- Java [POS without database]()
-- PHP, HTML, CSS [Ins-IT]() and [Portofolio]()
-- Python bots [Vhack Automation]() and [Telegram Bots]()
+- Java [POS without database](https://github.com/bakhti31/POSJava)
+- PHP, HTML, CSS [Ins-IT](https://github.com/bakhti31/Ins-IT) and [Portofolio](https://github.com/bakhti31/Portofolio)
+- Python bots [Vhack Game Automation !Againts ToS]() and [Telegram Bots]()
