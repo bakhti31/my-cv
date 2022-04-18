@@ -1,8 +1,4 @@
 theme: jekyll-theme-minimal
 layout: post
-title: Blogging Like a Hacker
----
-food: Pizza
----
-
-<h1>{{ page.food }}</h1>
+title: Bakhtiar Ramadhan CV
+description: Up to dateCV
