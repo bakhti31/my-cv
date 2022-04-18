@@ -1,15 +1,22 @@
-## Welcome to GitHub Pages
+## Bakhtiar Ramadhan
+![Image](https://avatars.githubusercontent.com/u/27219734)
+Github Page[Bakhtiar Ramadhan GitHub](https://github.com/bakhti31/)
 
-You can use the [editor on GitHub](https://github.com/bakhti31/my-cv/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Education History
+**SMKn Negeri Penajam Paser Utara** _2019_
+**Samarinda State Polytechnic** _Current_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Certificate
+**Training in NEO Singapore Komputer**, _2017-04_
+**Certificate of Competency Computer and Network Engineering**, _2018-03_
+**Junior Networking**, _2019-01_
+**Junior Network Administrator**, _2019-10_
+**Networking**, _2019-11_
+**CCNA Routing and Switching: Introduction to Networks**, _2020-01_
+**Junior Web Developer**, _2020-10_
 
 ```markdown
-Syntax highlighted code block
+Junior Web Developer
 
 # Header 1
 ## Header 2
@@ -25,13 +32,3 @@ Syntax highlighted code block
 
 [Link](https://avatars.githubusercontent.com/u/27219734) and ![Image](https://avatars.githubusercontent.com/u/27219734)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bakhti31/my-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
