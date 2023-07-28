@@ -1,7 +1,16 @@
-## Bakhtiar Ramadhan
+# Bakhtiar Ramadhan
 ![Image](https://avatars.githubusercontent.com/u/27219734)
+Github Page [Bakhtiar Ramadhan GitHub](https://github.com/bakhti31/)
 
-Github Page[Bakhtiar Ramadhan GitHub](https://github.com/bakhti31/)
+## Biodata
+|  |  |
+| ----------- | ----------- |
+| Name | Bakhtiar Ramadhan |
+| Date Of Birth | 08 December 1999 |
+| Place | Samarinda |
+| Phone | +62 822 9717 7440 |
+| WhatsApp | wa.me/6282297177440 |
+| Email | bakhtiar.rf@gmail.com |
 
 ## Education History
 1. **High School Negeri Penajam Paser Utara** _2019_
@@ -16,8 +25,31 @@ Github Page[Bakhtiar Ramadhan GitHub](https://github.com/bakhti31/)
 6. **CCNA Routing and Switching: Introduction to Networks**, _2020-01_
 7. **Junior Web Developer**, _2020-10_
 
+## Programming Language Skill
+- **Java Desktop** _Basic_
+- **PHP** _intermediate_
+- **Javascript Vanila** _Basic_
+- **Node JS** _Basic_
+- **Python** _Intermediate_
+- **C++** _Basic_
+- **Arduino C++** _Basic_
+
+## Project
+- Java [POS without database](https://github.com/bakhti31/POSJava)
 ```markdown
-Junior Web Developer
+POS System Without Database
+
+- Implement User Interface
+- Implement the Text
+- Arrange the Function, Files, or Other Programming Resources in Neat Organizations
+- Write the Code with Principles in Accordance with the Guidelines and Best Practices
+- Implement the Structured Programming
+- Use the Library or Pre-Existing Components
+```
+
+- PHP, HTML, CSS [Ins-IT](https://github.com/bakhti31/Ins-IT) and [Portofolio](https://github.com/bakhti31/Portofolio)
+```markdown
+Ins-IT
 
 - Implement User Interface
 - Implement th Text, Graphics, and Multimedia-Based Programming Language Execution Command
@@ -26,16 +58,22 @@ Junior Web Developer
 - Implement the Structured Programming
 - Use the Library or Pre-Existing Components
 ```
-## Programming Language Skill
-- Java Desktop Programmer 
-- PHP
-- Javascript Vanila
-- Node JS 
-- Python
-- C++
-- Arduino C++
 
-## Project
-- Java [POS without database](https://github.com/bakhti31/POSJava)
-- PHP, HTML, CSS [Ins-IT](https://github.com/bakhti31/Ins-IT) and [Portofolio](https://github.com/bakhti31/Portofolio)
 - Python bots [Vhack Game Automation !Againts ToS]() and [Telegram Bots]()
+```markdown
+Vhack Game Automation
+: Using Python, ADB, 
+- Automate Farming
+- Automate Using Python
+- Automate 
+```
+
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+[^1]: This is the first footnote.
+
+[^bignote]: Here's one with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+    `{ my code }`
+    Add as many paragraphs as you like.
