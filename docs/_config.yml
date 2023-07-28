@@ -1,4 +1,6 @@
-theme: jekyll-theme-minimal
-layout: post
+remote_theme: pages-themes/dinky@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Bakhtiar Ramadhan CV
-description: Up to dateCV
+description: Up to date CV
+gem "github-pages", group: :jekyll_plugins
