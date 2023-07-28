@@ -14,20 +14,20 @@ Github Page [Bakhtiar Ramadhan GitHub](https://github.com/bakhti31/)
 | Email | bakhtiar.rf@gmail.com |
 
 ## Education History
-1. **High School Negeri Penajam Paser Utara** _2019_
-2. **Samarinda State Polytechnic** _Current_
+1. **High School Negeri Penajam Paser Utara** _2019_ [^SMK]
+2. **Samarinda State Polytechnic** _Current_ [^POLNES]
 
 ## Certificate
-1. **Training in NEO Singapore Komputer**, _2017-04_
-2. **Certificate of Competency Computer and Network Engineering**, _2018-03_
-3. **Junior Networking**, _2019-01_
-4. **Junior Network Administrator**, _2019-10_
-5. **Networking**, _2019-11_
-6. **CCNA Routing and Switching: Introduction to Networks**, _2020-01_
-7. **Junior Web Developer**, _2020-10_
+1. **Training in NEO Singapore Komputer**, _2017-04_ [^NeoSingapore]
+2. **Certificate of Competency Computer and Network Engineering**, _2018-03_ [^TKJ]
+3. **Junior Networking**, _2019-01_ [^JN]
+4. **Junior Network Administrator**, _2019-10_ [^JNA]
+5. **Networking**, _2019-11_ [^Net]
+6. **CCNA Routing and Switching: Introduction to Networks**, _2020-01_ [^CCNA]
+7. **Junior Web Developer**, _2020-10_ [^JWD]
 
 ## Programming Language Skill
-- **Java Desktop** _Basic_
+- **Java Desktop** _Basic_ 
 - **PHP** _intermediate_
 - **Javascript Vanila** _Basic_
 - **Node JS** _Basic_
@@ -78,3 +78,13 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
     Indent paragraphs to include them in the footnote.
     `{ my code }`
     Add as many paragraphs as you like.
+
+[^SMK]: Teknik Komputer Jaringan
+
+    - Mempelajari Dasar Networking
+    - Mempelajari Dasar Programming
+    - Mempelajari Dasar Hardware
+    - Mengikuti Lomba Kejuruan
+    
+
+[^JNA]: 
