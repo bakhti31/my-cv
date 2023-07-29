@@ -16,27 +16,27 @@ Github Page [Bakhtiar Ramadhan GitHub](https://github.com/bakhti31/)
 
 ## Education History
 
-1. [**Samarinda State Polytechnic**]([^POLNES]) _Current_
-2. [**High School Negeri Penajam Paser Utara**]([^SMK]) _2018_ 
-3. VSGA, [**Junior Network Administrator**]([^JN]), Samarinda, *2019* 
-5. BPSDM Balikpapan, [**Networking**]([^Net]), Samarinda, *2019* 
-6. VSGA, [**Junior Web Developer**]([^JWD]), Online, *2020* 
+1. [**Samarinda State Polytechnic**]([^POLNES]) [^POLNES]_Current_ 
+2. [**High School Negeri Penajam Paser Utara**]([^SMK]) [^SMK] _2018_ 
+3. VSGA, [**Junior Network Administrator**]([^JN]) [^JN], Samarinda, *2019* 
+5. BPSDM Balikpapan, [**Networking**]([^Net]) [^Net], Samarinda, *2019* 
+6. VSGA, [**Junior Web Developer**]([^JWD]) [^JWD], Online, *2020* 
 
 ## Experience
 
-1. Training in [**NEO SINGAPORE COMPUTER**]([^NeoSingapore]) Samarinda *2017*
-2. [**Warehouse Employee**]([^Fitrah]), Toko Fitrah, _2019_
-3. [**Training in DISKOMINFO**]([^DISKOMINFO]) kota Bontang _2022_
+1. Training in [**NEO SINGAPORE COMPUTER**]([^NeoSingapore])[^NeoSingapore] Samarinda *2017*
+2. [**Warehouse Employee**]([^Fitrah])[^Fitrah], Toko Fitrah, _2019_
+3. [**Training in DISKOMINFO**]([^DISKOMINFO])[^DISKOMINFO] kota Bontang _2022_
 
 ## Certificate
-1. [**Training in NEO Singapore Komputer**]([^NeoSingapore]), _2017-04_ 
-2. [**Certificate of Competency Computer and Network Engineering**]([^TKJ]), _2018-03_ 
-3. [**Junior Networking**]([^JN]), _2019-01_ 
-4. [**Junior Network Administrator**]([^JNA]), _2019-10_ 
-5. [**Networking**]([^Net]), _2019-11_ 
-6. [**CCNA Routing and Switching: Introduction to Networks**]([^CCNA]), _2020-01_ 
-7. [**Junior Web Developer**]([^JWD]), _2020-10_ 
-8. [**Training in DISKOMINFO kota Bontang**]([^DISKOMINFO]) _2022-5_ 
+1. [**Training in NEO Singapore Komputer**]([^NeoSingapore])[^NeoSingapore], _2017-04_ 
+2. [**Certificate of Competency Computer and Network Engineering**]([^TKJ])[^TKJ], _2018-03_ 
+3. [**Junior Networking**]([^JN])[^JN], _2019-01_ 
+4. [**Junior Network Administrator**]([^JNA])[^JNA], _2019-10_ 
+5. [**Networking**]([^Net])[^Net], _2019-11_ 
+6. [**CCNA Routing and Switching: Introduction to Networks**]([^CCNA])[^CCNA], _2020-01_ 
+7. [**Junior Web Developer**]([^JWD])[^JWD], _2020-10_ 
+8. [**Training in DISKOMINFO kota Bontang**]([^DISKOMINFO])[^DISKOMINFO] _2022-5_ 
 
 ## Programming Language Skill
 - **Java Desktop** _Basic_ 
@@ -97,13 +97,16 @@ Adding Feature
 - Make Vcard all member from Group
 
 ```
+
 - [Telegram Bots]()
+```markdown
+Telegram Bots
 
-[Portofolio](https://github.com/bakhti31/Portofolio)
+Using Python to send respond from Database
 
-### Notes
+```
 
-[^SMK]: Teknik Komputer Jaringan
+[^SMK]:
 
     Learning Basic Networking
     - TCP IP v4
@@ -111,21 +114,17 @@ Adding Feature
     - Basic Wireless Configuration
     - Installation Server Application
     - Configure Server Application
-    
     Learning Basic Programming
     - HTML + CSS
     - Pascal
-    
     Learning Basic Computer Hardware
     - Component in Motherboard
     - External Hardware Computer
-
     Learning Server With Teacher
     - Learning Virtual Machine
     - Learning Linux Server Debian 7
     - Learning Windows Server 2008
     - Learning Mikrotik
-    
 [^POLNES]: Associate Degree Majoring Computer Engineering
 
     Learning C++, 
@@ -222,8 +221,12 @@ Adding Feature
 
 [^CCNA]: Cisco Networking Academy
 
+    itu
+
 [^DISKOMINFO]: Dinas Komunikasi dan Informatika
+
+    Ini
 
 [^BPSDM]: Badan Pengembangan Sumber Daya Manusia
 
-    
+    Anu
