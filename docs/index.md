@@ -125,6 +125,7 @@ Using Python to send respond from Database
     - Learning Linux Server Debian 7
     - Learning Windows Server 2008
     - Learning Mikrotik
+    
 [^POLNES]: Associate Degree Majoring Computer Engineering
 
     Learning C++, 
