@@ -4,6 +4,7 @@
 Github Page [Bakhtiar Ramadhan GitHub](https://github.com/bakhti31/)
 
 ## Biodata
+
 | Description | Value |
 | ----------- | ----------- |
 | Name | Bakhtiar Ramadhan |
@@ -14,26 +15,28 @@ Github Page [Bakhtiar Ramadhan GitHub](https://github.com/bakhti31/)
 | Email | bakhtiar.rf@gmail.com |
 
 ## Education History
-1. **Samarinda State Polytechnic** _Current_ [^POLNES]
-2. **High School Negeri Penajam Paser Utara** _2018_ [^SMK]
-3. VSGA, Junior Network Administrator, Samarinda, *2019* [^JN]
-5. BPSDM Balikpapan, Networking, Samarinda, *2019* [^Net]
-6. VSGA, Junior Web Developer, Online, *2020* [^JWD]
+
+1. [**Samarinda State Polytechnic**]([^POLNES]) _Current_
+2. [**High School Negeri Penajam Paser Utara**]([^SMK]) _2018_ 
+3. VSGA, [**Junior Network Administrator**]([^JN]), Samarinda, *2019* 
+5. BPSDM Balikpapan, [**Networking**]([^Net]), Samarinda, *2019* 
+6. VSGA, [**Junior Web Developer**]([^JWD]), Online, *2020* 
 
 ## Experience
-1. Training in NEO SINGAPORE COMPUTER Samarinda *2017*
-2. Warehouse Employee, Toko Fitrah, _2019_
-3. Training in DISKOMINFO kota Bontang _2022_
+
+1. Training in [**NEO SINGAPORE COMPUTER**]([^NeoSingapore]) Samarinda *2017*
+2. [**Warehouse Employee**]([^Fitrah]), Toko Fitrah, _2019_
+3. [**Training in DISKOMINFO**]([^DISKOMINFO]) kota Bontang _2022_
 
 ## Certificate
-1. **Training in NEO Singapore Komputer**, _2017-04_ [^NeoSingapore]
-2. **Certificate of Competency Computer and Network Engineering**, _2018-03_ [^TKJ]
-3. **Junior Networking**, _2019-01_ [^JN]
-4. **Junior Network Administrator**, _2019-10_ [^JNA]
-5. **Networking**, _2019-11_ [^Net]
-6. **CCNA Routing and Switching: Introduction to Networks**, _2020-01_ [^CCNA]
-7. **Junior Web Developer**, _2020-10_ [^JWD]
-8. **Training in DISKOMINFO kota Bontang** _2022-5_ [^DISKOMINFO]
+1. [**Training in NEO Singapore Komputer**]([^NeoSingapore]), _2017-04_ 
+2. [**Certificate of Competency Computer and Network Engineering**]([^TKJ]), _2018-03_ 
+3. [**Junior Networking**]([^JN]), _2019-01_ 
+4. [**Junior Network Administrator**]([^JNA]), _2019-10_ 
+5. [**Networking**]([^Net]), _2019-11_ 
+6. [**CCNA Routing and Switching: Introduction to Networks**]([^CCNA]), _2020-01_ 
+7. [**Junior Web Developer**]([^JWD]), _2020-10_ 
+8. [**Training in DISKOMINFO kota Bontang**]([^DISKOMINFO]) _2022-5_ 
 
 ## Programming Language Skill
 - **Java Desktop** _Basic_ 
@@ -51,10 +54,11 @@ Github Page [Bakhtiar Ramadhan GitHub](https://github.com/bakhti31/)
 - Leadership
 
 ## Project
-- Java [POS without database](https://github.com/bakhti31/POSJava)
+- [POS without database](https://github.com/bakhti31/POSJava)
 ```markdown
 POS System Without Database
 
+Using Java, and Text editor Netbeanse
 - Implement User Interface
 - Implement the Text
 - Arrange the Function, Files, or Other Programming Resources in Neat Organizations
@@ -63,7 +67,7 @@ POS System Without Database
 - Use the Library or Pre-Existing Components
 ```
 
-- PHP, HTML, CSS [Ins-IT](https://github.com/bakhti31/Ins-IT) and [Portofolio](https://github.com/bakhti31/Portofolio)
+- [Ins-IT](https://github.com/bakhti31/Ins-IT)
 ```markdown
 Ins-IT
 
@@ -76,14 +80,28 @@ Using PHP Native, Mysqli, Own Library, Bootstrap
 - Use the Library or Pre-Existing Components
 ```
 
-- Python bots [Vhack Game Automation !Againts ToS]() and [Telegram Bots]()
+- [Vhack Game Automation !Againts ToS](https://github.com/bakhti31/game-automation) and [Telegram Bots]()
 ```markdown
 Vhack Game Automation
 
 Using Python, ADB, uiautomator2
-- Automate Farming
-- 
 ```
+
+- [Bawabot](https://github.com/bakhti31/bawabot)
+```markdown
+Bakhtiar WA Bot
+
+Using NodeJS(Refork from @adiwajshing/baileys)
+Adding Feature
+- Tag All
+- Make Vcard all member from Group
+
+```
+- [Telegram Bots]()
+
+[Portofolio](https://github.com/bakhti31/Portofolio)
+
+### Notes
 
 [^SMK]: Teknik Komputer Jaringan
 
@@ -148,14 +166,64 @@ Using Python, ADB, uiautomator2
     - Securing Server
 
 [^JNA]: Junior Networking Administrator
+
+    Kompentensi yang di uji
+    - Routing antar Autonomous System 
+    - Routing Autonomous System
+    - Addressing TCP IP v4
+    - Securing Server
+
 [^JN]: Junior Networking 
+
+    Kompentensi yang di uji
+    - Routing antar Autonomous System 
+    - Routing Autonomous System
+    - Addressing TCP IP v4
+    - Securing Server
+
 [^Net]: Networking
+
+    Kompentensi yang di uji
+    - Routing antar Autonomous System 
+    - Routing Autonomous System
+    - Addressing TCP IP v4
+    - Securing Server
+
 [^JWD]: Junior Web Developer
+
+    Kompentensi yang di uji
+    - Routing antar Autonomous System 
+    - Routing Autonomous System
+    - Addressing TCP IP v4
+    - Securing Server
+
 [^NeoSingapore]: Neo Singapore Computer Samarinda
+
+    Hal yang didapat Selama Magang
+    - Lebih Mengenal Hardware Computer
+    - Lebih Mengenal Troubleshooting Masalah Laptop
+    - Lebih Mengenal Troubleshooting Sistem Operasi
+    - Lebih Mengenal Troubleshooting Masalah Printer
+
 [^TKJ]: Teknik Komputer Jaringan
+
+    Hal yang didapatkan selama Sekolah
+    - Mengetahui Cara Menggunakan Blender 3d
+    - Mengetahui Cara Menggunakan Software Cisco Packet Tracer untuk simulasi Jaringan
+    - Mengetahui Cara Menggunakan Software Virtual Machine
+    - Mengetahui Cara Membuat Website dengan HTML, CSS, PHP, MYSQL
+    - Mengetahui Cara Mengkonfigurasi Linux Server ( Debian 7 )
+    - Mengetahui Cara Mengkonfigurasi Windows Server ( Windows Server 2012 )
+    - Mengetahui Cara Menggunakan Mikrotik
+    
 [^VSGA]: Vocational School Graduate Academy
+
+    Program Pemerintah untuk Studi 
+
 [^CCNA]: Cisco Networking Academy
+
 [^DISKOMINFO]: Dinas Komunikasi dan Informatika
+
 [^BPSDM]: Badan Pengembangan Sumber Daya Manusia
 
     
