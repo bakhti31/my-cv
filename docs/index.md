@@ -106,7 +106,7 @@ Using Python to send respond from Database
 
 ```
 
-[^SMK]:
+[^SMK]: Vocational High School 2 Penajam Paser Utara
 
     Learning Basic Networking
     - TCP IP v4
@@ -114,12 +114,15 @@ Using Python to send respond from Database
     - Basic Wireless Configuration
     - Installation Server Application
     - Configure Server Application
+    
     Learning Basic Programming
     - HTML + CSS
     - Pascal
+    
     Learning Basic Computer Hardware
     - Component in Motherboard
     - External Hardware Computer
+    
     Learning Server With Teacher
     - Learning Virtual Machine
     - Learning Linux Server Debian 7
@@ -220,14 +223,20 @@ Using Python to send respond from Database
 
     Program Pemerintah untuk Studi 
 
-[^CCNA]: Cisco Networking Academy
+[^CCNA]: Cisco Certified Networking Academy
 
-    itu
+    Dari Kelas Network pada Semester 2 dan 3 Politeknik Negeri Samarinda
 
 [^DISKOMINFO]: Dinas Komunikasi dan Informatika
 
-    Ini
+    Dinas yang mengendalikan informasi dan pelayanan ke masyarakat
 
 [^BPSDM]: Badan Pengembangan Sumber Daya Manusia
 
-    Anu
+    Badan Pemerintah untuk mengembangkan sumber daya alam di daerah
+
+[^FITRAH]: Toko Fitrah
+
+    Hal yang dikerjakan
+    - Melaporkan Stock barang di Gudang ke Admin
+    - Melaporkan Tanggal Kadaluarsa pada barang yang sedang di pajang
