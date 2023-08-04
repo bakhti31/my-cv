@@ -65,7 +65,9 @@ Using Python, BeautifulSoup Library, Own Library
 - Turning into a program with interactive cli
 - Getting the link of the update
 - Auto Open the link in browser
+
 ```
+
 - [POS without database](https://github.com/bakhti31/POSJava)
 ```markdown
 POS System Without Database
@@ -77,6 +79,7 @@ Using Java, and Text editor Netbeanse
 - Write the Code with Principles in Accordance with the Guidelines and Best Practices
 - Implement the Structured Programming
 - Use the Library or Pre-Existing Components
+
 ```
 
 - [Ins-IT](https://github.com/bakhti31/Ins-IT)
@@ -90,6 +93,7 @@ Using PHP Native, Mysqli, Own Library, Bootstrap
 - Write the Code with Principles in Accordance with the Guidelines and Best Practices
 - Implement the Structured Programming
 - Use the Library or Pre-Existing Components
+
 ```
 
 - [Vhack Game Automation !Againts ToS](https://github.com/bakhti31/game-automation) and [Telegram Bots]()
@@ -101,6 +105,7 @@ Using Python, ADB, uiautomator2
 - Procedural Tap for an action
 - Looping Procedural Tap
 - Sliding to next Object
+
 ```
 
 - [Bawabot](https://github.com/bakhti31/bawabot)
